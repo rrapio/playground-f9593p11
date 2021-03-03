@@ -9,5 +9,6 @@ class NumberUtil {
 class Main {
 
 	public static void main(String[] args) {
-        PrintUtils.print(isPrime(7));
+        PrintUtils.print(NumberUtil.isPrime(7));
     }
+}
